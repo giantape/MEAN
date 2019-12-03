@@ -1,2 +1,2 @@
-# MEAN
-MongoDB, ExpressJs, AngularJs, NodeJs
+# Mean
+MongoDb, ExpressJs, AngularJs, NodeJs
